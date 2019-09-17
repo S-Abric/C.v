@@ -80,7 +80,7 @@ $(document).ready(function() {
   $(function() {
     typed.typed({
       strings: ["Abric Sonny", "un adorateur de ce que vous voyez la", "un amoureux de...", "un danseur fou", "pas seul dans ma tete"],
-      typeSpeed: 75,
+      typeSpeed: 100,
       loop: true,
     });
   });
